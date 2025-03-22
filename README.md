@@ -1,4 +1,4 @@
-# Mini IOS Browser - Daniela TI211-FR
+# Mini IOS Browser
 
 ![iOS Browser Demo](ios-browser.gif)
 
